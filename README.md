@@ -1,3 +1,35 @@
+<img src="https://assets.materialup.com/uploads/a82903d5-260d-48f1-bd11-a592ee6500ca/preview" height="150" width="auto">
+
 # Todoey
 
-A to do list app
+A fun color gradient to do list app
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+Have Xcode 9 and above
+
+## Built With
+
+* [Coredata]() - Persisting Data
+* [Realm]() - Another Method For Persisting Data
+* [SwipeCellKit](https://cocoapods.org/pods/SwipeCellKit) - Cell Animations
+
+## Contributing
+
+Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+
+* **Johnathan Chen** - *Initial work* - [Github](https://github.com/johnathanachen)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Supreme Pizza
